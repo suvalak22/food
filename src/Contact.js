@@ -5,7 +5,7 @@ function Contact() {
   return (
     <>
       <Layout />
-      <h3>Ubon Ratchathani University</h3>
+      <h3>ผู้จัดทำ</h3>
       <div>
         <img src="IMG_5859.jpg" width="300" height="380" border-radius="20%" />
         <br />
