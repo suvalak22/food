@@ -62,7 +62,7 @@ function Index() {
     <button>เรียนรู้เพิ่มเติม>></button>
     <br></br>
     <br></br>
-    <img src="card-05.jpg"width="250" height="250" border-radius="20%"/>
+    <img src="card-05.jpg"width="250" height="250" borderradius="20%"/>
     <br></br>
     <h4>แกงเห็ดเผาะไข่มดแดง</h4>
     <br></br>
